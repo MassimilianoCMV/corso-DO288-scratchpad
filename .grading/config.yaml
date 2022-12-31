@@ -1,0 +1,6 @@
+rhtlab:
+  course:
+    sku: do288
+  logging:
+    level: error
+    path: /tmp/log/labs/
